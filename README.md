@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+### **MOVIX ReactJS-Styled-Components**
+![Desktop_View](https://user-images.githubusercontent.com/82125128/182972457-8f04eaa6-39b4-4b29-a7d2-dde57aa62150.PNG)
+Desktop view
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Desktop_View_Modal](https://user-images.githubusercontent.com/82125128/182972491-c5fcce85-f376-4a2b-bf99-eafe472b6b02.PNG)
+Modal Desktop view
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Responsive_View_Modal](https://user-images.githubusercontent.com/82125128/182972500-32553fd4-9144-4996-acf7-b02459892eef.PNG)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Modal Responsive view
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Available Scripts
 
